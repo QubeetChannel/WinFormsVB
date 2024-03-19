@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBD0FE3-8D84-4847-B616-5E2BF18C6F9F}|WinFormsVB.vbproj|C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECBD0FE3-8D84-4847-B616-5E2BF18C6F9F}|WinFormsVB.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBD0FE3-8D84-4847-B616-5E2BF18C6F9F}|WinFormsVB.vbproj|c:\\users\\qubee\\documents\\github\\visual studio\\winformsvb\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ECBD0FE3-8D84-4847-B616-5E2BF18C6F9F}|WinFormsVB.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBD0FE3-8D84-4847-B616-5E2BF18C6F9F}|WinFormsVB.vbproj|C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\customdatagridview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECBD0FE3-8D84-4847-B616-5E2BF18C6F9F}|WinFormsVB.vbproj|solutionrelative:customdatagridview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\Form1.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Form1.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T13:25:42.518Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-13T13:26:17.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomDataGridView.vb",
+              "DocumentMoniker": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\CustomDataGridView.vb",
+              "RelativeDocumentMoniker": "CustomDataGridView.vb",
+              "ToolTip": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\CustomDataGridView.vb",
+              "RelativeToolTip": "CustomDataGridView.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-16T16:37:30.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
