@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mEk4ibfeirM+NZRWH88ZSkpySMGNGybR3qS/Guju0EaDUDTmw627060k9DGvlQAo9+mcjRXTOIrXZqat/uulOQ==",
+  "dgSpecHash": "DIJNdhjQ8cFIW91CnhYIX0KEQAUNhw3Lu4ONHyabhEqDyT7HJrxe/vDjmOuR/KyUN8ShTJHT/wNpUuHoZMmQkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\WinFormsVB.vbproj",
+  "projectFilePath": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB — копия\\WinFormsVB.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qubee\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
     "C:\\Users\\Qubee\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",

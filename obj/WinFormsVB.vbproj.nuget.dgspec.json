@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\WinFormsVB.vbproj": {}
+    "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB — копия\\WinFormsVB.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\WinFormsVB.vbproj": {
+    "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB — копия\\WinFormsVB.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\WinFormsVB.vbproj",
+        "projectUniqueName": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB — копия\\WinFormsVB.vbproj",
         "projectName": "WinFormsVB",
-        "projectPath": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\WinFormsVB.vbproj",
+        "projectPath": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB — копия\\WinFormsVB.vbproj",
         "packagesPath": "C:\\Users\\Qubee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB\\obj\\",
+        "outputPath": "C:\\Users\\Qubee\\Documents\\GitHub\\Visual Studio\\WinFormsVB — копия\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qubee\\AppData\\Roaming\\NuGet\\NuGet.Config",
